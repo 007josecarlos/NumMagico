@@ -1,0 +1,31 @@
+
+
+
+html,body{
+    background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+    
+    .container{
+        height: 100%;
+        align-content: center;
+    }
+    .card{
+        height: 370px;
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 400px;
+        background-color: rgba(0,0,0,0.5) !important;
+        }
+
+        .reloj { 
+            width: 200px;
+            height: 30px;
+            color: brown;
+            font: bold 1.5em dotum, "lucida sans", arial; 
+            text-align: center;
+            float: right; margin: 1em 3em 1em 1em; 
+        }
